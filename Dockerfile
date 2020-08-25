@@ -1,4 +1,4 @@
-FROM neenjaw/mermaid:node-13
+FROM omarbinary/mermaid:latest
 
 WORKDIR /mmdc
 COPY . /mmdc
